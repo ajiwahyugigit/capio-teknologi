@@ -1,0 +1,30 @@
+.nav-item {
+    padding: 15px;
+    font-size: 20px;
+}
+
+.jumbotron {
+    padding: 120px;
+}
+.jumbotron h1 {
+    padding-top: 100px;
+    font-weight: 600;
+    margin-bottom: -90px;
+}
+.content h2 {
+    font-weight: 400;
+}
+.meet-our-leader h5 {
+    margin-bottom: -1px;
+}
+.meet-our-leader span {
+    color: rgb(175, 175, 175);
+}
+.connect {
+    margin-top: 60px;
+    margin-bottom: 200px;
+}
+
+.content-work h2 {
+    color: rgb(116, 116, 116);
+}
