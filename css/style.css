@@ -28,3 +28,10 @@
 .content-work h2 {
     color: rgb(116, 116, 116);
 }
+.dev {
+    color: rgb(148, 148, 148);
+    border-right: 2px solid rgb(175, 175, 175);
+}
+.ux, .data {
+    color: rgb(148, 148, 148);
+}
