@@ -2,6 +2,31 @@
     padding: 15px;
     font-size: 20px;
 }
+.home-page {
+    background-image: url(../AssetsCapio/Homepage/Homepage\ Person.png);
+    background-size: cover;
+}
+.header-home p {
+    font-size: 23px;
+    color: #fff;
+}
+.header-home .header-text {
+    color: rgb(131, 131, 131);
+    font-size: 20px;
+}
+.position p {
+    color: rgb(131, 131, 131);
+}
+.page-footer p {
+    color: rgb(131, 131, 131);
+}
+.main-solutions {
+    background-image: url(../AssetsCapio/Header/City.png);
+    background-size: cover;
+}
+.page-solution {
+    padding-top: 60px;
+}
 .display-4 {
     font-weight: 500;
 }
@@ -30,15 +55,22 @@
     color: red;
     font-weight: 700;
 }
+.portfolio p {
+    color: rgb(131, 131, 131);
+}
 .portfolio span {
     color: rgb(0, 75, 173);
 }
 .more-work {
     padding: 13px 45px;
+    margin-top: 30px;
     color: white;
     font-weight: 700;
     font-size: larger;
     box-shadow: -3px -2px 7px 2px rgba(164,164,164,0.75);
+}
+.why-us p {
+    color: rgb(131, 131, 131);
 }
 .why-us span{
     color: rgb(0, 75, 173);
@@ -76,7 +108,21 @@
     margin-top: 20px;
 }
 .work {
-    padding-top: 380px;
+    background-image: url(../AssetsCapio/Header/City.png);
+    background-size: cover;
+}
+.page-work {
+    padding-top: 450px;
+}
+.page-company {
+    background-image: url(../AssetsCapio/Header/City.png);
+    background-size: cover;
+}
+.company {
+    padding-top: 60px;
+}
+.company span {
+    color: rgb(21, 57, 122);;
 }
 .content-work h2 {
     color: rgb(116, 116, 116);
@@ -94,6 +140,13 @@
     padding: 15px 50px;
     border-radius: 15px;
     box-shadow: -3px -2px 7px 2px rgba(164,164,164,0.75);
+}
+.main-getus {
+    background-image: url(../AssetsCapio/Header/Maps.png);
+    background-size: cover;
+}
+.page-getus {
+    padding-top: 60px;
 }
 .get-us {
     margin-top: 100px;
