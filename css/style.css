@@ -95,8 +95,11 @@
 .meet-our-leader h5 {
     margin-bottom: -1px;
 }
-.meet-our-leader span {
-    color: rgb(0, 75, 173);
+.meet-our-leader span, p {
+    color: rgb(121, 121, 121);
+}
+.meet-our-leader .card-title {
+    color: rgb(0, 0, 0);
 }
 .connect {
     margin-top: 80px;
@@ -120,6 +123,10 @@
 }
 .company {
     padding-top: 60px;
+}
+.company p {
+    color: #fff;
+    font-size: 18px;
 }
 .company span {
     color: rgb(21, 57, 122);;
